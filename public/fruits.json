@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "name": "Mango",
+        "image": "https://media.istockphoto.com/photos/mango-picture-id168370138?s=612x612"
+    },
+    {
+        "id": "2",
+        "name": "Orange",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/440px-Oranges_-_whole-halved-segment.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Pawpaw",
+        "image": "https://digitalprodyatesauweb.blob.core.windows.net/cache/3/1/b/0/9/7/31b097fa6caf48b0c595d7477765f0a02ff5ff37.webp"
+    }
+
+
+]
